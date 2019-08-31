@@ -1,6 +1,6 @@
-Para criar o executável: make stackProblem
-Para inserir a entrada: ./stackProblem < input
-Para inserir a entrada e testar com a saída: ./stackProblem < input | diff - output 
+Para criar o executável: make stackProblem <br>
+Para inserir a entrada: ./stackProblem < input <br>
+Para inserir a entrada e testar com a saída: ./stackProblem < input | diff - output <br>
 
 Em uma linguagem baseada em tags, como XML ou HTML, o conteudo é envolto entre uma tag de
 abertura e sua correspondente tag de fechamento, por exemplo <tag> e </tag>. Toda a tag de
