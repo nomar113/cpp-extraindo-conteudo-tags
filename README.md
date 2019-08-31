@@ -14,7 +14,7 @@ um conjunto bem definido de tags, obedecendo aos seguintes critérios: <br><br>
 Os nomes das tags de entrada e saida devem ser os mesmos. O codigo html ```<h1>Hello
 World</h2>``` não é valido pois a tag de saida não é igual à de entrada.
 Tags podem ser aninhadas, mas o conteudo entre tags aninhadas não é considerado valido.
-Por exemplo, em <a>conteudos</a>invalidos</h1> conteudos é valido mas invalidos não.
+Por exemplo, em ```<a>conteudos</a>invalidos</h1>``` conteudos é valido mas invalidos não.
 Tags podem consistir de qualquer conjunto de caracteres imprimiveis, desde que da língua
 portuguesa.
 O tamanho do texto deve ser de, pelo menos, 15 caracteres e não maior que 100.000. <br>
